@@ -8,4 +8,8 @@ def Dog
     @DogName 
   end
   
+  def bark
+    puts "woof!"
+  end
+  
 end
